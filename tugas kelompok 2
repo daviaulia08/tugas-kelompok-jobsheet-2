@@ -1,0 +1,13 @@
+public class tugaskelompokjobsheet2 {
+    
+    public static void main(String[] args) {
+        system.out.println("Nama     : Davi Aulia Maghfirah");
+        system.out.println("NIM      : 244107020093");
+        system.out.println("Kelas    : 1D");
+        system.out.println("No Absen : 08");
+        system.out.println("Prodi    : Teknik Informatika");
+        system.out.println("Alamat   : Jalan Semanggi 15c, Malang");
+        system.out.println("No HP    : 081328287017");
+        system.out.println("Hobi     : Menggambar");
+    }
+}
