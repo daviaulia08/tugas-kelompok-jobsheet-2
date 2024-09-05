@@ -1,0 +1,13 @@
+public class Tugaskelompokjobsheet2 {
+
+    public static void main(String[] args) {
+        System.out.println("Nama        : Sheilandra Zarawiba");
+        System.err.println("NIM         : 244107020110");
+        System.err.println("Kelas       : TI 1D");
+        System.err.println("No. Absen   : 29");
+        System.err.println("Prodi       : Teknik Informatika");
+        System.err.println("Alamat      : Jalan Semanggi Barat");
+        System.err.println("No HP       : 085707029645");
+        System.err.println("Hobi        : Berenang");
+        }
+    }
